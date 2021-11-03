@@ -29,3 +29,9 @@ https://wiki.york.ac.uk/pages/viewpage.action?pageId=218794149#VK7)Copyingandmov
 ## Save data to drive
 You would need the the Linux Intel/AMD - 64 version of rclone https://rclone.org/downloads/
 https://wiki.york.ac.uk/pages/viewpage.action?pageId=218794149#VK7)CopyingandmovingyourdatatoViking.-Windows
+
+You will need to sign in an create a new project on:
+https://console.cloud.google.com/apis/
+
+by following the instructions:
+https://rclone.org/drive/#making-your-own-client-id
